@@ -38,7 +38,7 @@ export default async function AboutPage() {
         <p className="mb-4">Therefore, <span className="text-xl text-orange-600">AmplifyHer is gifting AmplifyHer Premium for free*</span> in countries where access to reliable health information is limited. Our ambition is to reach 1bn women with this initiative, so they can have better access to reliable health information through the AmplifyHer Application. And together with all of you, we believe that we can make a true impact on improving health literacy across the globe.
         </p>
 
-        <p className="mb-4">Your body. Your data. At AmplifyHer, we don't sell your data. No matter where you are, and what service you use, we protect your data in accordance with the International General Data Protection Regulations. You can delete, access, and update it at any time. You can read our privacy policy here.
+        <p className="mb-4">Your body. Your data. At AmplifyHer, we do not sell your data. No matter where you are, and what service you use, we protect your data in accordance with the International General Data Protection Regulations. You can delete, access, and update it at any time. You can read our privacy policy here.
         </p>
         </div>
       </div>
