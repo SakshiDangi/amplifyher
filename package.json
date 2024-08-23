@@ -12,10 +12,13 @@
     "@clerk/nextjs": "^5.3.3",
     "@clerk/themes": "^2.1.21",
     "framer-motion": "^11.3.29",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.3",
     "next": "14.2.6",
     "next-view-transitions": "^0.3.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "svix": "^1.30.0"
   },
   "devDependencies": {
     "@types/node": "^20",
